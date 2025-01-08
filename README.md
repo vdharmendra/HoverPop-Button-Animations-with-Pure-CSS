@@ -12,13 +12,13 @@ This project will demonstrate various hover animation effects for buttons that y
 <span>HoverPop Button Animation</span>
 <br />
 <a href="#" target="_blank">
-<img style="width:350px;" src="./" alt="" /></a>
+<img style="width:350px;" src="./hoverPopButtonAnimation.gif" alt="" /></a>
 <br />
 <span>Rest & Hover State</span>
 <br />
 <a href="#" target="_blank">
-<img style="width:350px;" src="." alt="" /></a>
-<img style="width:350px;" src="." alt="" /></a>
+<img style="width:350px;" src="./buttonRestState.png" alt="" /></a>
+<img style="width:350px;" src="./buttonRestStateHover.png" alt="" /></a>
 <br />
 
 ## Features
@@ -31,7 +31,7 @@ This project will demonstrate various hover animation effects for buttons that y
 ###### Lang
 <ul>
   <li>Graphic Design Software: Photoshop, Adobe XD (for mockups)</li>
-  <li>Web Tools (Optional): HTML5, CSS3 for any digital presentations or landing pages</li>
+  <li>Web Tools (Optional): HTML5, SASS for any digital presentations or landing pages</li>
 
 </ul>
 
